@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OAUHRunning</string>
+    <string name="menu1">Nový běh</string>
+    <string name="menu2">Kalendář</string>
+    <string name="menu3">Statistika</string>
+    <string name="start">Začátek</string>
+    <string name="end">Cíl</string>
+    <string name="km">Počet km</string>
+    <string name="save">Ulož běh</string>
+</resources>
